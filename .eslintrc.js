@@ -29,6 +29,7 @@ module.exports = {
     "@typescript-eslint/explicit-function-return-type": "off",
     camelcase: "off",
     "no-console": "warn",
+    "jsx-a11y/heading-has-content": "off",
     "no-unused-vars": ["warn", { argsIgnorePattern: "^_" }],
     "@typescript-eslint/no-unused-vars": ["warn", { argsIgnorePattern: "^_" }],
     "prefer-named-capture-group": "warn",
